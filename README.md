@@ -1,3 +1,9 @@
+# Forked from <a herf="https://github.com/espressif/esp-at">https://github.com/espressif/esp-at</a>
+樂鑫官方的AT韌體專案，可以自己編譯所需的AT韌體，具體操作方法可看官方說明，不過就是一般的大陸說明書，話只會講一半，英文版也是  
+編譯完成的韌體在build\factory底下，設置完成用於編譯藍牙AT韌體的專案傳不上來，所以就放在右邊的Releases  
+<br>
+以下為原始專案readme內容  
+
 # ESP-AT
 [![alt text][doc-latest]](https://docs.espressif.com/projects/esp-at/en/latest/)
 
